@@ -6,3 +6,4 @@ python-jose[cryptography]
 passlib[bcrypt] 
 pytest
 python-multipart
+argon2_cffi
